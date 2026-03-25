@@ -2,32 +2,32 @@
 
 <table>
   <tr>
-    <td align="center">
-      <b>1. Correlation Matrix</b><br />
-      <img src="https://github.com/poonam-data-analyst/hotel-customer-data-analyisis/blob/main/correlation%20matrix.png" width="400" alt="Correlation Matrix"/><br />
+    <td align="center" width="33%">
+        <b>1. Correlation Matrix</b><br />
+      <img src="https://github.com/poonam-data-analyst/hotel-customer-data-analyisis/blob/main/correlation%20matrix.png" width="100%" alt="Correlation Matrix"/><br />
       <i>Analyzes relationships between numerical features</i>
     </td>
   <tr>
-    <td align="center">
+    <td align="center"width="33%">
       <b>Correlation Heatmap</b><br />
-      <img src="https://github.com/poonam-data-analyst/hotel-customer-data-analyisis/blob/main/Correlation%20Heatmap.png" width="400" alt="Correlation Heatmap"/><br />
+      <img src="https://github.com/poonam-data-analyst/hotel-customer-data-analyisis/blob/main/Correlation%20Heatmap.png" width="100%" alt="Correlation Heatmap"/><br />
       <i>Relationship between variables</i>
     </td>
-    <td align="center">
+    <td align="center"width="33%">
       <b>Customer Segmentation</b><br />
-      <img src="https://github.com/poonam-data-analyst/hotel-customer-data-analyisis/blob/main/K-Means%20Clustering%20Scatter%20Plot.png" width="400" alt="K-Means Clusters"/><br />
+      <img src="https://github.com/poonam-data-analyst/hotel-customer-data-analyisis/blob/main/K-Means%20Clustering%20Scatter%20Plot.png" width="100%" alt="K-Means Clusters"/><br />
       <i>K-Means clustering results</i>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center"width="33%">
       <b>Model Importance</b><br />
-      <img src="https://github.com/poonam-data-analyst/hotel-customer-data-analyisis/blob/main/Random%20Forest%20Feature%20Importance%20Plot.png" width="400" alt="Feature Importance"/><br />
+      <img src="https://github.com/poonam-data-analyst/hotel-customer-data-analyisis/blob/main/Random%20Forest%20Feature%20Importance%20Plot.png" width="100%" alt="Feature Importance"/><br />
       <i>Random Forest top predictors</i>
     </td>
-    <td align="center">
+    <td align="center"width="33%">
       <b>Actual vs. Predicted</b><br />
-      <img src="https://github.com/poonam-data-analyst/hotel-customer-data-analyisis/blob/main/Actual%20vs.%20Predicted%20Revenue%20(Regression%20Plot).png" width="400" alt="Regression Results"/><br />
+      <img src="https://github.com/poonam-data-analyst/hotel-customer-data-analyisis/blob/main/Actual%20vs.%20Predicted%20Revenue%20(Regression%20Plot).png" width="100%" alt="Regression Results"/><br />
       <i>Model accuracy visualization</i>
     </td>
   </tr>
