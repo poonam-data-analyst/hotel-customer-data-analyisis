@@ -1,4 +1,37 @@
-# hotel-customer-data-analyisis
+## Project Visualizations
+
+<table>
+  <tr>
+    <td align="center">
+      <b>1. Correlation Matrix</b><br />
+      <img src="https://github.com/poonam-data-analyst/hotel-customer-data-analyisis/blob/main/correlation%20matrix.png" width="400" alt="Correlation Matrix"/><br />
+      <i>Analyzes relationships between numerical features</i>
+    </td>
+  <tr>
+    <td align="center">
+      <b>Correlation Heatmap</b><br />
+      <img src="https://github.com/poonam-data-analyst/hotel-customer-data-analyisis/blob/main/Correlation%20Heatmap.png" width="400" alt="Correlation Heatmap"/><br />
+      <i>Relationship between variables</i>
+    </td>
+    <td align="center">
+      <b>Customer Segmentation</b><br />
+      <img src="https://github.com/poonam-data-analyst/hotel-customer-data-analyisis/blob/main/K-Means%20Clustering%20Scatter%20Plot.png" width="400" alt="K-Means Clusters"/><br />
+      <i>K-Means clustering results</i>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Model Importance</b><br />
+      <img src="https://github.com/poonam-data-analyst/hotel-customer-data-analyisis/blob/main/Random%20Forest%20Feature%20Importance%20Plot.png" width="400" alt="Feature Importance"/><br />
+      <i>Random Forest top predictors</i>
+    </td>
+    <td align="center">
+      <b>Actual vs. Predicted</b><br />
+      <img src="https://github.com/poonam-data-analyst/hotel-customer-data-analyisis/blob/main/Actual%20vs.%20Predicted%20Revenue%20(Regression%20Plot).png" width="400" alt="Regression Results"/><br />
+      <i>Model accuracy visualization</i>
+    </td>
+  </tr>
+</table># hotel-customer-data-analyisis
 # 🏨 Hotel Customer Intelligence & Revenue Optimization
 
 > 🚀 End-to-End python Project | Customer Segmentation | Booking Prediction | Revenue Forecasting
